@@ -1,3 +1,4 @@
 # GoPostBackend
 
-## This is just a simple CRUD code using Go(Gin framework)
+- This is a CRUD for different posts, which may have a title  and body. 
+- It is implemented using Go(Gin framework)
